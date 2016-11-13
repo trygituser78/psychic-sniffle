@@ -6,4 +6,6 @@ This is a heading
 
 This is a smaller heading
 
-learning git
+# learning git
+
+# Adding some more stuff
